@@ -2,7 +2,7 @@
 
 ## Tools
 
-| Name | Link | Description | Open-Source? | Free Access |
+| Name | Link | Description | Open-Source? | Free Plan |
 |-|-|-|-|-|
 | Midjourney | [https://www.midjourney.com/](https://www.midjourney.com/) | AI image generation bot on Discord. Supports text and image prompts. | ❌ | ❌ | 
 | Leonardo AI | [https://leonardo.ai/](https://leonardo.ai/) | Good quality alternative to Midjourney | ❌ | ✅ | 
@@ -13,4 +13,4 @@
 
 ## Addiional Resources
 
-- [Artist comparisons](https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/edit?usp=sharing): A repo for comparing different artists.
+- [Artist comparisons](https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/edit?usp=sharing): Google sheet comparing different artist styles under consistent stable diffusion settings.
