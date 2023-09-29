@@ -1,7 +1,7 @@
 | Term | Definition |  
 |-|-|
 | Bias | Systematic skew in model outputs due to imbalances in training data. An ongoing challenge with generative AI. |
-| Context | The sequence of tokens provided as context to a generative model when making a prediction. Allows conditioning on a specific prompt. |
+| Context | External information passed into a generative model (as tokens) when making a prediction. |
 | Diffusion Models | Generative models that create images via iteratively denoising random noise using a neural net. |
 | Embedding | Representing discrete tokens like words as continuous vector representations based on context. |
 | Parametric Knowledge | The knowledge encoded in the parameters of a generative model and frozen in time. These form the basis for generating new content based on patterns learned during training. |
