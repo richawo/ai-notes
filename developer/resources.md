@@ -1,2 +1,2 @@
 - [Hugging Face Inferences API](https://huggingface.co/docs/inference-endpoints/index): easily deploy LLMs / Diffusion models on dedicated and autoscaling infrastructure managed by Hugging Face
-- [Ollama][https://ollama.ai/]: Easiest way to download and run open source models locally for free (offline) via terminal.
+- [Ollama](https://ollama.ai/): Easiest way to download and run open source models locally for free (offline) via terminal.
