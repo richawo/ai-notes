@@ -1,2 +1,7 @@
+# Ignore extensions
 .DS_Store
 .env
+.ipynb_checkpoints
+
+# specific files
+dalle3_neon_man.png
