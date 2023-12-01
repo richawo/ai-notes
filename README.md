@@ -5,7 +5,6 @@ Notes providing a high-level synthesis of key generative AI concepts, applicatio
 Some highlights of the repository:
 
 - `/developer` - Useful tools and resources specifically for AI Engineers
-- `/notes` - My evolving notes on the basics of generative AI, key models like GPT-4 and Stable Diffusion, applications, limitations, etc.
 - `/products` - A curated set of best-in-class products, services and applications that leverage generative AI models.
 - `/resources` - Curated papers, blogs, tools, and tutorials on generative AI.
 - `/examples` - Mini-projects as Jupyter notebooks to showcase uses of models like GPT-4, Stable Diffusion, etc.
