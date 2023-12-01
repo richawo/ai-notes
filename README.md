@@ -8,6 +8,6 @@ Some highlights of the repository:
 - `/notes` - My evolving notes on the basics of generative AI, key models like GPT-4 and Stable Diffusion, applications, limitations, etc.
 - `/products` - A curated set of best-in-class products, services and applications that leverage generative AI models.
 - `/resources` - Curated papers, blogs, tools, and tutorials on generative AI.
-- `/mini-projects` - Mini-projects as Jupyter notebooks to showcase uses of models like GPT-4, Stable Diffusion, etc.
+- `/examples` - Mini-projects as Jupyter notebooks to showcase uses of models like GPT-4, Stable Diffusion, etc.
 
 This is a work in progress, so please feel free to open issues or PRs if you have any feedback! The main goal is to make generative AI more accessible.
